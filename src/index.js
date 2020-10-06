@@ -1,6 +1,9 @@
+import './custom.scss';
+import 'jquery';
+import 'popper.js';
+import 'bootstrap';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
